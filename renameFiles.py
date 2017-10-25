@@ -1,3 +1,4 @@
+# this code to organize photos in prank folder by rename it and delete integer
 import os
 import string
 def rename_files():
